@@ -1,0 +1,2 @@
+# CourseDotNet.Class
+CourseDotNet.Class
